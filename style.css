@@ -1,0 +1,22 @@
+center{
+    margin-top: 10rem;
+    margin-left: 5cm;
+}
+
+#add{
+    width: 3cm;
+}
+#sub{
+    width: 3cm;
+}
+#mul{
+    width: 3cm;
+}
+#div{
+    width: 3cm;
+}
+.calci{
+    background-color: blueviolet;
+    position: absolute;
+    width: 10cm;
+}
